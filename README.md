@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/iberxilong/roo-code-memory-bank-new)
+
 # 🧠 Roo Code Memory Bank
 
 **Persistent Project Context for AI-Assisted Development**
